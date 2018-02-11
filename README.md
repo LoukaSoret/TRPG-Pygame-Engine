@@ -25,5 +25,9 @@ and probably never will, this is just my playground when i want to relax.
 ## Requirement
 This project requires Python 2.7, Pygame 1.9, six 1.1 and tmx 1.3.
 
+## Execution
+Move into the game directory and run
+> python binaries/game.py
+
 ## Galery
 Empty (for now)
