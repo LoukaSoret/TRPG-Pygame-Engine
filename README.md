@@ -23,7 +23,7 @@ and probably never will, this is just my playground when i want to relax.
 - life and bullets count.
 
 ## Requirement
-This project requires Python 2.7, Pygame 1.9, siw 1.1 and tmx 1.3.
+This project requires Python 2.7, Pygame 1.9, six 1.1 and tmx 1.3.
 
 ## Galery
 Empty (for now)
