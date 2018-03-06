@@ -30,4 +30,8 @@ Move into the game directory and run
 > python binaries/game.py
 
 ## Galery
-Empty (for now)
+<img src="https://github.com/LoukaSoret/coursL3/blob/master/gallery/cover.png" alt="cover" width="512"/>
+<img src="https://github.com/LoukaSoret/coursL3/blob/master/gallery/lights.png" alt="cover" width="512"/>
+<img src="https://github.com/LoukaSoret/coursL3/blob/master/gallery/shorting.png" alt="cover" width="512"/>
+<img src="https://github.com/LoukaSoret/coursL3/blob/master/gallery/target.png" alt="cover" width="512"/>
+
