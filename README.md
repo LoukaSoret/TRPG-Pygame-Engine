@@ -30,8 +30,8 @@ Move into the game directory and run
 > python binaries/game.py
 
 ## Galery
-<img src="https://github.com/LoukaSoret/TRPG-Pygame-Engine/blob/master/screenshots/cover.png" alt="cover" width="512"/>
-<img src="https://github.com/LoukaSoret/TRPG-Pygame-Engine/blob/master/screenshots/lights.png" alt="lights" width="512"/>
-<img src="https://github.com/LoukaSoret/TRPG-Pygame-Engine/blob/master/screenshots/shorting.png" alt="shooting" width="512"/>
-<img src="https://github.com/LoukaSoret/TRPG-Pygame-Engine/blob/master/screenshots/target.png" alt="target" width="512"/>
+<img src="https://github.com/LoukaSoret/TRPG-Pygame-Engine/blob/master/screenshots/cover.png" alt="cover" width="768"/>
+<img src="https://github.com/LoukaSoret/TRPG-Pygame-Engine/blob/master/screenshots/lights.png" alt="lights" width="768"/>
+<img src="https://github.com/LoukaSoret/TRPG-Pygame-Engine/blob/master/screenshots/shorting.png" alt="shooting" width="768"/>
+<img src="https://github.com/LoukaSoret/TRPG-Pygame-Engine/blob/master/screenshots/target.png" alt="target" width="768"/>
 
